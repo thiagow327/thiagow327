@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago Silva 👋
 
 - 🔭 Futuro desenvolvedor Front-end;
-- 🌱 Estou aprendendo Java e MySQL;
+- 🌱 Estou aprendendo PHP;
 - 📫 Contate-me por e-mail: thiagossilva327@gmail.com
 
 <div>

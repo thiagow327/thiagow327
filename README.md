@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Silva 👋
 
-- 🔭 Não estou trabalhando atualmente;
+- 🔭 Futuro desenvolvedor Front-end;
 - 🌱 Estou aprendendo Java e MySQL;
 - 📫 Contate-me por e-mail: thiagossilva327@gmail.com
 

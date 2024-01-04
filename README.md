@@ -16,19 +16,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre</h3>
+<h3 align="center">👩‍💻  Sobre</h3>
 
 ###
 
-<p align="left">Sou um entusiasta da tecnologia, com experiência na áreas de Desenvolvimento, Teste e Suporte.</p>
+<p align="center">Sou um entusiasta da tecnologia, com experiência na áreas de Desenvolvimento, Teste e Suporte.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens</h3>
+<h3 align="center">🛠 Linguagens</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagow327&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
 

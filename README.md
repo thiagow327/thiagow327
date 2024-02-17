@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Desenvolvedor de Software</h1>
+<h1 align="center">Software Developer</h1>
 
 ###
 

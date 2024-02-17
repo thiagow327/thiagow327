@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">Sobre</h3>
+<h3 align="center">About</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Linguagens</h3>
+<h3 align="center">Programming Languages</h3>
 
 ###
 

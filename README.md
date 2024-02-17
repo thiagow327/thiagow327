@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Sou um entusiasta da tecnologia, com experiência na áreas de Desenvolvimento, Teste e Suporte.</p>
+<p align="center">I am a technology enthusiast, with experience in the areas of Development, Testing and Support.</p>
 
 ###
 
